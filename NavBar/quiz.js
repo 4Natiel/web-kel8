@@ -116,5 +116,5 @@ function restartQuiz() {
 }
 
 function goToMenu() {
-    window.location.href = window.location.origin + "../index.html";
+    window.location.href = "../index.html";
 }
