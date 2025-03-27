@@ -1,0 +1,23 @@
+.green {
+    background-color: rgb(62, 123, 39);
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    border-style: dotted;
+  }
+  
+  .green p {
+    color: rgb(236, 220, 191);
+    text-align: justify;
+  }
+  
+  .green h1 {
+    background-color: rgb(23, 92, 5);
+    color: rgb(236, 220, 191);
+    border-radius: 10px;
+  }
+  .btnbek{
+    background-color: #5059ca;
+    border-radius: 10px;
+  
+  }
