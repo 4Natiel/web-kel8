@@ -24,8 +24,8 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 1.4rem 7%;
-    background-color: #000000;
-    position: fixed;
+    background-color: #000000 !important;
+    position: fixed !important;
     top: 0;
     left: 0;
     right: 0;
